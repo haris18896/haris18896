@@ -37,7 +37,7 @@
 ***
 
 [![Haris's GitHub stats](https://github-readme-stats.vercel.app/api?username=haris18896&theme=vue-dark&show_icons=true)](https://github.com/haris18896/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haris18896)](https://github.com/anuraghazra/github-readme-stats)
 ***
 
 [website]: https://portfolio-39c92.web.app/
