@@ -30,20 +30,14 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
 [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][reactplaylist]
 
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevplaylist]
+
 
 <br />
 <br />
 
 ---
 
-
-
-
-
-
 [website]: https://portfolio-39c92.web.app/
 [twitter]: https://twitter.com/HarisAhmadKha18
 [instagram]: https://www.instagram.com/haris18896/
 [linkedin]: https://www.linkedin.com/in/haris-ahmad-91b70215a/
-
