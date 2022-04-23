@@ -36,7 +36,7 @@
 <br />
 ***
 
-[![Haris's GitHub stats](https://github-readme-stats.vercel.app/api?username=haris18896&show_icons=true)](https://github.com/haris18896/github-readme-stats)
+[![Haris's GitHub stats](https://github-readme-stats.vercel.app/api?username=haris18896&show_icons=truetheme=radical)](https://github.com/haris18896/github-readme-stats)
 
 ***
 
