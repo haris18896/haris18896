@@ -34,9 +34,11 @@
 
 <br />
 <br />
-<a href="https://github.com/haris18896/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>
-<a href="https://github.com/haris18896/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a>
+***
 
+[![Haris's GitHub stats](https://github-readme-stats.vercel.app/api?username=haris18896)](https://github.com/haris18896/github-readme-stats)
+
+***
 
 [website]: https://portfolio-39c92.web.app/
 [twitter]: https://twitter.com/HarisAhmadKha18
