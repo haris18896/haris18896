@@ -1,6 +1,6 @@
 # Hi there, I'm Haris Ahmad Khan - [haris18896](https://portfolio-39c92.web.app/) 👋 
 
-## I'm a an Electronic Engineer and a self-taught passionate developer from Pakistan pk
+## I'm a an Electronic Engineer and a self-taught passionate developer from Pakistan.
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
@@ -35,7 +35,11 @@
 <br />
 <br />
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+
 [website]: https://portfolio-39c92.web.app/
 [twitter]: https://twitter.com/HarisAhmadKha18
 [instagram]: https://www.instagram.com/haris18896/
 [linkedin]: https://www.linkedin.com/in/haris-ahmad-91b70215a/
+
