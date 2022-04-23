@@ -1,6 +1,6 @@
 # Hi there, I'm Haris Ahmad Khan - [haris18896](https://portfolio-39c92.web.app/) 👋 
 
-## I'm a an Electronic Engineer and React JS developer!!
+## I'm a an Electronic Engineer and a self-taught passionate developer from Pakistan pk
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
