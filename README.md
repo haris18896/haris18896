@@ -1,6 +1,6 @@
-# Hi there, Haris Ahmad Khan - [haris18896](https://portfolio-39c92.web.app/) 👋 
+# Hi there, I'm Haris Ahmad Khan - [haris18896](https://portfolio-39c92.web.app/) 👋 
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a an Electronic Engineer and React JS developer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
