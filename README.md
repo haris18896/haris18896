@@ -1,5 +1,9 @@
 # Hi there, I'm Haris Ahmad Khan - [haris18896](https://portfolio-39c92.web.app/) 👋 
 
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" src="./assets/gh-readme-header.png" /></a></p>
+
+<br />
+
 ## I'm a an Electronic Engineer and a self-taught passionate developer from Pakistan.
 
 - 🌱 I’m currently learning everything 🤣
