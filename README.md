@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Learn more about Full Stack web app development
-[![Haris's GitHub stats](https://github-readme-stats.vercel.app/api?username=haris18896&theme=vue-dark&show_icons=true)](https://github.com/haris18896/github-readme-stats)
+
 
 ### Connect with me:
 
@@ -37,12 +37,10 @@
 
 <br />
 <br />
-***
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haris18896&theme=vue-dark&show_icons=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-
-***
+[![Haris's GitHub stats](https://github-readme-stats.vercel.app/api?username=haris18896&theme=vue-dark&show_icons=true)](https://github.com/haris18896/github-readme-stats)
 
 [website]: https://portfolio-39c92.web.app/
 [twitter]: https://twitter.com/HarisAhmadKha18
