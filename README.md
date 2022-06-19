@@ -1,8 +1,8 @@
 # Hi there, I'm Haris Ahmad Khan - [haris18896](https://portfolio-39c92.web.app/) 👋 
 
-## I'm a an Electronic Engineer and a self-taught passionate developer from Pakistan.
+## I'm a self-taught passionate developer from Pakistan.
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Learn more about Full Stack web app development
 
