@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Learn more about Full Stack web app development
+- 🥅 2022 Goals: Learn more about Full Stack web app development and Mobile Development
 
 
 ### Connect with me:
