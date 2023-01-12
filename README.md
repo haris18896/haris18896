@@ -40,8 +40,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haris18896&theme=vue-dark&show_icons=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
         [![Haris's GitHub stats](https://github-readme-stats.vercel.app/api?username=haris18896&theme=vue-dark&show_icons=true)](https://github.com/haris18896/github-readme-stats)
-                                                                                                                                                  
-                                                                                                                                                  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haris18896theme=vue-dark&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
                                                                                                                                                   
 <a href="https://app.daily.dev/haris18896"><img src="https://api.daily.dev/devcards/f9cf733e4f7b49a590d2a909db4ccebe.png?r=hob" width="400" alt="Haris Ahmad's Dev Card"/></a>
