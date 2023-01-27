@@ -2,9 +2,9 @@
 
 ## I'm a self-taught passionate developer.
 
-- 🌱 I’m currently learning everything
+- 🌱 I’m currently learning Backend
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Learn more about Full Stack web app development and Mobile Development
+- 🥅 2023 Goals: Learn more about Backend and DevOps
 
 
 ### Connect with me:
