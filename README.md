@@ -2,27 +2,27 @@
 
 ## I'm a self-taught passionate developer.
 
- - 🪷 FrontEnd:
+ FrontEnd:
  - 🍁 HTML5 | CSS3 | Javascript
  - 📱 Libraries: ReactJS
  - 🔘 Framework: NextJS | React Native
  - 🎨 Styling: Tailwind / SASS / Material UI / Ant Design / React Strap
 
 
- - 🔙 Backend :
+Backend:
  - 💾 Language: Node JS | Python | Django
  - 🧮 Database: PostgreSQL | MongoDB
 
-
+Design:
  - 🎨 UI/UX Design
  - 🎀 Wireframes | prototypes | high-fidelity design | branding
 
-
+StateManagement
  - 💫 State Management
  - ✨ Redux | Redux-Saga | Redux-Toolkit
 
 
- - Skills:
+Skills:
  - 🔘 Architectures: MVVM | MVP
  - 📍 Apis: Google apis | Google map apis etc.
  - ⭐️ Expert in working with Github | Bitbucket | and Gitlab
