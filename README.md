@@ -8,15 +8,19 @@
  - 🔘 Framework: NextJS | React Native
  - 🎨 Styling: Tailwind / SASS / Material UI / Ant Design / React Strap
 
+
  - 🔙 Backend :
  - 💾 Language: Node JS | Python | Django
  - 🧮 Database: PostgreSQL | MongoDB
 
+
  - 🎨 UI/UX Design
  - 🎀 Wireframes | prototypes | high-fidelity design | branding
 
+
  - 💫 State Management
  - ✨ Redux | Redux-Saga | Redux-Toolkit
+
 
  - Skills:
  - 🔘 Architectures: MVVM | MVP
