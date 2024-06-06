@@ -2,9 +2,37 @@
 
 ## I'm a self-taught passionate developer.
 
-- 🌱 I’m currently learning Backend
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2023 Goals: Learn more about Backend and DevOps
+🪷 FrontEnd:
+🍁 HTML5 | CSS3 | Javascript
+📱 Libraries: ReactJS
+🔘 Framework: NextJS | React Native
+🎨 Styling: Tailwind / SASS / Material UI / Ant Design / React Strap
+
+🔙 Backend :
+💾 Language: Node JS | Python | Django
+🧮 Database: PostgreSQL | MongoDB
+
+🎨 UI/UX Design
+🎀 Wireframes | prototypes | high-fidelity design | branding
+
+💫 State Management
+✨ Redux | Redux-Saga | Redux-Toolkit
+
+Skills:
+🔘 Architectures: MVVM | MVP
+📍 Apis: Google apis | Google map apis etc.
+⭐️ Expert in working with Github | Bitbucket | and Gitlab
+📲 Push Notification and Local Notification | Alarm | Reminder | Calendar | Location Service
+💬 Integrated Socket.io | firebase for chat
+🔑 Social Media Login
+📗 Publish to App Store and Play Store
+
+🗄 Experience Highlights
+🚌 Designed a car service app for Saudi Arabia, including car washing, oil changes, and live tracking, with separate user and customer interfaces.
+🏥 Developed a healthcare app with 10k active users, featuring patient diagnosis and doctor scheduling.
+🗝 Created a VPN application for Android and iOS, utilizing APIs to change and bounce the IP address.
+🎥 Built an event-organizing app with 23k active users, streamlining event management and user engagement.
+🏒 Developed a pool association app, available on both iOS and Android, with over 1,000 active users. The app enables players to track their qualifying matches for Vegas qualifiers.
 
 
 ### Connect with me:
