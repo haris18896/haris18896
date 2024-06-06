@@ -18,7 +18,6 @@ Design:
  - 🎀 Wireframes | prototypes | high-fidelity design | branding
 
 StateManagement
- - 💫 State Management
  - ✨ Redux | Redux-Saga | Redux-Toolkit
 
 
