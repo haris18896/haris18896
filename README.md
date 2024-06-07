@@ -28,7 +28,7 @@ Skills:
  - 📲 Push Notification and Local Notification | Alarm | Reminder | Calendar | Location Service
  - 💬 Integrated Socket.io | firebase for chat
  - 🔑 Social Media Login
- - 📗 Publish to App Store and Play Store
+ - 📗 Publish: App Store | Play Store | Google Cloud
 
 
 ### Connect with me:
