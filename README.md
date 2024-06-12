@@ -35,6 +35,21 @@ Skills:
  - 📗 Publish: App Store | Play Store | Google Cloud
 
 
+### Connect with me:
+
+[![website](./img/globe-light.svg)](https://portfolio-39c92.web.app/#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://portfolio-39c92.web.app/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/HarisAhmadKha18#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/HarisAhmadKha18#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/haris-ahmad-91b70215a/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/haris-ahmad-91b70215a/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://www.instagram.com/haris18896/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/haris18896/#gh-dark-mode-only)
+
+
 ### Languages and Tools:
 
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
@@ -52,22 +67,6 @@ Skills:
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
-
-</br>
-
-### Connect with me:
-
-[![website](./img/globe-light.svg)](https://portfolio-39c92.web.app/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://portfolio-39c92.web.app/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/HarisAhmadKha18#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/HarisAhmadKha18#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/haris-ahmad-91b70215a/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/haris-ahmad-91b70215a/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/haris18896/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/haris18896/#gh-dark-mode-only)
 
 <br />
 <br />
