@@ -49,7 +49,7 @@ StateManagement
 
 
 Skills:
- - 🔘 Architectures: MVVM | MVP
+ - 🔘 Architectures: MVVM | MVP | MVT
  - 📍 Apis: Google apis | Google map apis etc.
  - ⭐️ Expert in working with Github | Bitbucket | and Gitlab
  - 📲 Push Notification and Local Notification | Alarm | Reminder | Calendar | Location Service
